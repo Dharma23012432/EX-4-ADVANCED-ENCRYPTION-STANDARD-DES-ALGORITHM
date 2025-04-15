@@ -1,7 +1,11 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+
 # Date : 15-4-2025
+
 # Reg No : 21223040037
+
 ## Aim:
+
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
 ## ALGORITHM: 
@@ -63,6 +67,7 @@ int main()
 }
 ```
 ## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/fec9432f-f8a5-402c-8590-9fc623376341)
 
 ## RESULT: 
